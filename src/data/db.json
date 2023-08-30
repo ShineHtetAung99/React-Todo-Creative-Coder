@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0.9885282526056691,
+      "title": "go to home",
+      "completed": true
+    },
+    {
+      "id": 0.9634564760491344,
+      "title": "hi",
+      "completed": false
+    },
+    {
+      "id": 0.8338103570490463,
+      "title": "there",
+      "completed": false
+    }
+  ]
+}
